@@ -1,0 +1,7 @@
+streamlit
+crewai
+yfinance
+pandas
+numpy
+langchain_groq
+groq

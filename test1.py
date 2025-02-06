@@ -3,7 +3,7 @@ from phi.model.groq import Groq
 from dotenv import load_dotenv
 
 # load_dotenv()
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "gsk_"
 
 agent = Agent(
     model=Groq(id="deepseek-r1-distill-llama-70b", api_key=GROQ_API_KEY)

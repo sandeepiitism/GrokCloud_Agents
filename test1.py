@@ -11,4 +11,4 @@ agent = Agent(
 
 
 
-agent.print_response("Share a 2 sentence love story between dosa and samosa")
+agent.print_response("Share some insights on Indian startups")
